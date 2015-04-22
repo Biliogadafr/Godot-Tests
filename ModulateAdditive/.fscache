@@ -1,2 +1,6 @@
-::res://::1429728960
+::res://::1429729551
+Light.png::ImageTexture::1429458955::
+end_room_eye.png::ImageTexture::1429485163::
+flor.png::ImageTexture::1429464569::
 icon.png::ImageTexture::1429728960::
+main.scn::PackedScene::1429729551::
