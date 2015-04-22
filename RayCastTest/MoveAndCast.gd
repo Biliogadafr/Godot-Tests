@@ -29,7 +29,6 @@ func _fixed_process(delta):
 	update()
 	
 func _draw():
-	pass
 	if(oldIntersect != null && oldIntersect.has("position")):
 		draw_line( get_global_transform().xform_inv(Vector2(0,0)),  get_global_transform().xform_inv(oldIntersect["position"]), Color(1,1,1))
 	
